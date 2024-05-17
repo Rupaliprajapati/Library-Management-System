@@ -1,0 +1,2 @@
+# Library-Management-System
+This Library Management System uses SQL for efficient book management, user tracking, and transaction logging. It includes features for adding, updating, deleting books, managing user accounts, issuing and returning books, and tracking overdue items. The system ensures data integrity and provides easy access to comprehensive reports. Ideal for libraries seeking an organized, scalable, and user-friendly solution. See detailed setup instructions and schema in the documentation.
